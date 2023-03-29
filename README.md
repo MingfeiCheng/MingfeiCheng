@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MingfeiCheng
-- 👀 I’m interested in AI System Testing, Computer Vision and Few-shot Segmentation.
-- 🌱 I’m currently learning Self-Driving Systems.
-- 💞️ I’m looking to collaborate on Autonomous Vehicle Testing and Few-shot Segmentation.
+- 👀 I’m interested in Trustworthy AI, Autonomous Driving and AI System Testing.
+- 🌱 I’m currently working on Trustworthy Autonomous Driving.
+- 💞️ I’m looking to collaborate on Autonomous Driving Testing.
 - 📫 How to reach me -> See my homepage please. Thank u :)
 
 <!---
